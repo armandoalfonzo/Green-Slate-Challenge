@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Models\\GSC.Models.csproj",
+      "projectUniqueName": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Models\\GSC.Models.csproj",
       "projectName": "GSC.Models",
-      "projectPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Models\\GSC.Models.csproj",
+      "projectPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Models\\GSC.Models.csproj",
       "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Models\\obj\\",
+      "outputPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

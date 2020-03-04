@@ -8336,11 +8336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\GreenSlateChallenge\\GSC.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\GreenSlateChallenge\\GSC.WebUI.csproj",
       "projectName": "GSC.WebUI",
-      "projectPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\GreenSlateChallenge\\GSC.WebUI.csproj",
+      "projectPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\GreenSlateChallenge\\GSC.WebUI.csproj",
       "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\GreenSlateChallenge\\obj\\",
+      "outputPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\GreenSlateChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8360,11 +8360,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Models\\GSC.Models.csproj": {
-              "projectPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Models\\GSC.Models.csproj"
+            "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Models\\GSC.Models.csproj": {
+              "projectPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Models\\GSC.Models.csproj"
             },
-            "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Repository\\GSC.Services.csproj": {
-              "projectPath": "C:\\Users\\arman\\source\\repos\\GreenSlateChallenge\\Repository\\GSC.Services.csproj"
+            "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Repository\\GSC.Services.csproj": {
+              "projectPath": "C:\\Users\\arman\\OneDrive\\Documentos\\GitHub\\Green-Slate-Challenge\\GreenSlateChallenge-ArmandoRamirez\\Repository\\GSC.Services.csproj"
             }
           }
         }
