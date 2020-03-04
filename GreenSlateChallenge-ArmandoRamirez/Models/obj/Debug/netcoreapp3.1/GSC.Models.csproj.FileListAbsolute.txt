@@ -1,0 +1,8 @@
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\bin\Debug\netcoreapp3.1\GSC.Models.deps.json
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\bin\Debug\netcoreapp3.1\GSC.Models.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\bin\Debug\netcoreapp3.1\GSC.Models.pdb
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\obj\Debug\netcoreapp3.1\GSC.Models.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\obj\Debug\netcoreapp3.1\GSC.Models.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\obj\Debug\netcoreapp3.1\GSC.Models.AssemblyInfo.cs
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\obj\Debug\netcoreapp3.1\GSC.Models.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Models\obj\Debug\netcoreapp3.1\GSC.Models.pdb

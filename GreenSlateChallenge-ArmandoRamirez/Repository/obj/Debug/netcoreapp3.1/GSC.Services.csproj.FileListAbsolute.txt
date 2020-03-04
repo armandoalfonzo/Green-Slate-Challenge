@@ -1,0 +1,13 @@
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.Services.deps.json
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.Services.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.Services.pdb
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.DataAcces.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.Models.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.DataAcces.pdb
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\bin\Debug\netcoreapp3.1\GSC.Models.pdb
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.AssemblyInfo.cs
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.csproj.CopyComplete
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.dll
+C:\Users\arman\source\repos\GreenSlateChallenge\Repository\obj\Debug\netcoreapp3.1\GSC.Services.pdb
